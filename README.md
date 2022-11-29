@@ -1,1 +1,1 @@
-# LaboratoryNoteManager
+# LaboratoryNote Manager
