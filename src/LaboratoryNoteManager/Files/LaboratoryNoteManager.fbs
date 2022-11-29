@@ -1,0 +1,23 @@
+<Data>
+  <Events Desc="Events associated with controls">
+  </Events>
+  <Form Name="MainForm" Size="667,467" Tag="VisualStyle,DPIAware" Text="LaboratoryNote Manager">
+    <MenuStrip Name="ToolStrip" ImageScalingSize="16,16" Text="ToolStrip1">
+      <ToolStripMenuItem Name="ToolStripMenuItem_File" Text="File">
+        <ToolStripButton Name="ToolStripButton_New" Text="New" />
+        <ToolStripSeparator Name="ToolStripSeparator1" />
+        <ToolStripButton Name="ToolStripButton_Open" Text="Open" />
+        <ToolStripSeparator Name="ToolStripSeparator2" />
+        <ToolStripButton Name="ToolStripButton_Save" Text="Save" />
+        <ToolStripButton Name="ToolStripButton_SaveAs" Text="Save As" />
+        <ToolStripSeparator Name="ToolStripSeparator3" />
+        <ToolStripButton Name="ToolStripButton_Exit" Text="Exit" />
+      </ToolStripMenuItem>
+      <ToolStripMenuItem Name="ToolStripMenuItem_Edit" Text="Edit" />
+      <ToolStripMenuItem Name="ToolStripMenuItem_Insert" Text="Insert" />
+      <ToolStripMenuItem Name="ToolStripMenuItem_Tools" Text="Tools" />
+      <ToolStripMenuItem Name="ToolStripMenuItem_Help" Text="Help" />
+    </MenuStrip>
+    <StatusStrip Name="StatusStrip" ImageScalingSize="16,16" Text="StatusStrip1" />
+  </Form>
+</Data>
